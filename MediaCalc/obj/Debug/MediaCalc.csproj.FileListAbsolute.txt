@@ -1,0 +1,26 @@
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\bin\Debug\MediaCalc.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\bin\Debug\MediaCalc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\bin\Debug\MediaCalc.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_AboutBox.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_Menu_Principal.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.exe
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_CalcMedia.resources
+c:\users\aluno\documents\visual studio 2015\Projects\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_SplashScreen.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\bin\Debug\MediaCalc.exe.config
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.exe
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.pdb
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\bin\Debug\MediaCalc.exe
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\bin\Debug\MediaCalc.pdb
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_AboutBox.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_CalcMedia.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_CarregarMedia.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_DeletarMedia.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_Menu_Principal.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Frm_SplashScreen.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.Properties.Resources.resources
+C:\Users\aluno\Documents\V5_MediaCalc\MediaCalc\MediaCalc\obj\Debug\MediaCalc.csproj.GenerateResource.Cache
